@@ -1,0 +1,14 @@
+{
+    "id": "dynamodb",
+    "version": "1.0.0",
+    "meta": {
+        "label": "DynamoDB",
+        "description": "Connect to Amazon DynamoDB",
+        "author": "Dataiku",
+        "icon": "icon-database",
+        "tags": [ "Connector" ],
+        "url": "https://www.dataiku.com/dss/plugins/info/dynamodb.html",
+        "licenseInfo": "Apache Software License"
+    },
+    "featureFlags": ["dynamodb"]
+}
