@@ -10,5 +10,5 @@
         "url": "https://www.dataiku.com/dss/plugins/info/dynamodb.html",
         "licenseInfo": "Apache Software License"
     },
-    "featureFlags": ["dynamodb"]
+    "featureFlags": ["DynamoDB"]
 }
